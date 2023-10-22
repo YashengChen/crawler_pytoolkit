@@ -1,0 +1,39 @@
+[build-system]
+requires = ['hatchling']
+
+build-backend = 'hatchling.build'
+
+[project]
+name = 'crawler_toolkit'
+version = '0.0.8'
+authours = [
+    { name='YashengChen', email='arshengc@gmail.com' },
+]
+description = 'some usefull toolkit, including selenium webdriver action, and output data action like mssql, mongodb, files, generator fakeuser or user-agent'
+readme = 'README.md'
+requires-python = ">=3.10"
+classisfiers = [
+    'Programming Language :: Python :: 3',
+    'license :: OSI Approved :: MIT License',
+    'Operating System :: Unix Independent',
+]
+
+dependencies = [
+    'sqlalchemy>=1.4.43',
+    'sqlalchemy-utils>=0.38.3',
+    'pyodbc>=4.0.34',
+    'pymongo>=4.1.1',
+    'pyotp>=2.6.0',
+    'pysolr>=3.9.0',
+    'selenium-wire>=5.1.0',
+    'tqdm>=4.64.0',
+    'pandas>=1.4.4',
+    'opencc-python-reimplemented>=0.1.1',
+    'scrapy>=2.6.2',
+    'stem>=1.8.1',
+    'undetected-chromedriver>=3.4.6',
+]
+
+[project.urls]
+'Homepage' = 'https://github.com/YashengChen/crawler_toolkit'
+'Bug Tracker' = 'https://github.com/YashengChen/crawler_toolkit/Issue'

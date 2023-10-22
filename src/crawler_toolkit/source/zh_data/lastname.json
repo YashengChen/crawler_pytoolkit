@@ -1,0 +1,326 @@
+[
+    {
+        "Taiwanese": "Ang",
+        "Character": "\u6c6a",
+        "Mandarin": "W\u0101ng",
+        "English": "Wang"
+    },
+    {
+        "Taiwanese": "\u00c2ng",
+        "Character": "\u6d2a",
+        "Mandarin": "H\u00f3ng",
+        "English": "Hong"
+    },
+    {
+        "Taiwanese": "Au",
+        "Character": "\u6b50",
+        "Mandarin": "\u014cu",
+        "English": "Ou"
+    },
+    {
+        "Taiwanese": "Chan",
+        "Character": "\u66fe",
+        "Mandarin": "Z\u0113ng",
+        "English": "Zeng"
+    },
+    {
+        "Taiwanese": "Cheng",
+        "Character": "\u9418",
+        "Mandarin": "Zh\u014dng",
+        "English": "Zhong"
+    },
+    {
+        "Taiwanese": "Chh\u00ee",
+        "Character": "\u5f90",
+        "Mandarin": "X\u00fa",
+        "English": "Xu"
+    },
+    {
+        "Taiwanese": "Chh\u00f2a",
+        "Character": "\u8521",
+        "Mandarin": "C\u00e0i",
+        "English": "Tsai"
+    },
+    {
+        "Taiwanese": "Chiam",
+        "Character": "\u8a79",
+        "Mandarin": "Zh\u0101n",
+        "English": "Zhan"
+    },
+    {
+        "Taiwanese": "Chio\u030dh",
+        "Character": "\u77f3",
+        "Mandarin": "Sh\u00ed",
+        "English": "Shi"
+    },
+    {
+        "Taiwanese": "Chi\u00fa\u207f",
+        "Character": "\u8523",
+        "Mandarin": "Ji\u01ceng",
+        "English": "Chiang"
+    },
+    {
+        "Taiwanese": "Ch\u00f4",
+        "Character": "\u66f9",
+        "Mandarin": "C\u00e1o",
+        "English": "Chao"
+    },
+    {
+        "Taiwanese": "Chu",
+        "Character": "\u6731",
+        "Mandarin": "Zh\u016b",
+        "English": "Zhu"
+    },
+    {
+        "Taiwanese": "G\u00e2n",
+        "Character": "\u984f",
+        "Mandarin": "Y\u00e1n",
+        "English": "Yan"
+    },
+    {
+        "Taiwanese": "G\u00f4\u0358",
+        "Character": "\u5433",
+        "Mandarin": "W\u00fa",
+        "English": "Wu"
+    },
+    {
+        "Taiwanese": "G\u016bi",
+        "Character": "\u9b4f",
+        "Mandarin": "W\u00e8i",
+        "English": "Wei"
+    },
+    {
+        "Taiwanese": "\u00ce",
+        "Character": "\u4f59",
+        "Mandarin": "Y\u00fa",
+        "English": "Yu"
+    },
+    {
+        "Taiwanese": "I\u00fb",
+        "Character": "\u6e38",
+        "Mandarin": "Y\u00f3u",
+        "English": "You"
+    },
+    {
+        "Taiwanese": "I\u00fb\u207f",
+        "Character": "\u694a",
+        "Mandarin": "Y\u00e1ng",
+        "English": "Yang"
+    },
+    {
+        "Taiwanese": "K\u00e1n",
+        "Character": "\u7c21",
+        "Mandarin": "Ji\u01cen",
+        "English": "Jian"
+    },
+    {
+        "Taiwanese": "Kang",
+        "Character": "\u6c5f",
+        "Mandarin": "Ji\u0101ng",
+        "English": "Jiang"
+    },
+    {
+        "Taiwanese": "Kh\u00f3\u0358",
+        "Character": "\u8a31",
+        "Mandarin": "X\u01d4",
+        "English": "Xu"
+    },
+    {
+        "Taiwanese": "Khu",
+        "Character": "\u90b1",
+        "Mandarin": "Qi\u016b",
+        "English": "Qiu"
+    },
+    {
+        "Taiwanese": "Kim",
+        "Character": "\u91d1",
+        "Mandarin": "J\u012bn",
+        "English": "Jin"
+    },
+    {
+        "Taiwanese": "Koeh",
+        "Character": "\u90ed",
+        "Mandarin": "Gu\u014d",
+        "English": "Guo"
+    },
+    {
+        "Taiwanese": "L\u00e2u",
+        "Character": "\u5289",
+        "Mandarin": "Li\u00fa",
+        "English": "Liu"
+    },
+    {
+        "Taiwanese": "L\u00ed",
+        "Character": "\u674e",
+        "Mandarin": "L\u01d0",
+        "English": "Li"
+    },
+    {
+        "Taiwanese": "L\u012b",
+        "Character": "\u5442",
+        "Mandarin": "L\u01da",
+        "English": "Lu"
+    },
+    {
+        "Taiwanese": "Li\u0101u",
+        "Character": "\u5ed6",
+        "Mandarin": "Li\u00e0o",
+        "English": "Liao"
+    },
+    {
+        "Taiwanese": "L\u00edm",
+        "Character": "\u6797",
+        "Mandarin": "L\u00edn",
+        "English": "Lin"
+    },
+    {
+        "Taiwanese": "L\u00f4",
+        "Character": "\u7f85",
+        "Mandarin": "Lu\u00f3",
+        "English": "Luo"
+    },
+    {
+        "Taiwanese": "L\u00f4\u0358",
+        "Character": "\u76e7",
+        "Mandarin": "L\u00fa",
+        "English": "Lu"
+    },
+    {
+        "Taiwanese": "L\u014da",
+        "Character": "\u8cf4",
+        "Mandarin": "L\u00e0i",
+        "English": "Lai"
+    },
+    {
+        "Taiwanese": "M\u00e1",
+        "Character": "\u99ac",
+        "Mandarin": "M\u01ce",
+        "English": "Ma"
+    },
+    {
+        "Taiwanese": "N\u0302g",
+        "Character": "\u9ec3",
+        "Mandarin": "Hu\u00e1ng",
+        "English": "Huang"
+    },
+    {
+        "Taiwanese": "\u00d4\u0358",
+        "Character": "\u80e1",
+        "Mandarin": "H\u00fa",
+        "English": "Hu"
+    },
+    {
+        "Taiwanese": "\u00d4ng",
+        "Character": "\u738b",
+        "Mandarin": "W\u00e1ng",
+        "English": "Wang"
+    },
+    {
+        "Taiwanese": "Ong/Ang",
+        "Character": "\u7fc1",
+        "Mandarin": "W\u0113ng",
+        "English": "Weng"
+    },
+    {
+        "Taiwanese": "Pe\u030dh",
+        "Character": "\u767d",
+        "Mandarin": "B\u00e1i",
+        "English": "Bai"
+    },
+    {
+        "Taiwanese": "Phoa\u207f",
+        "Character": "\u6f58",
+        "Mandarin": "P\u0101n",
+        "English": "Pan"
+    },
+    {
+        "Taiwanese": "P\u00f2\u0358",
+        "Character": "\u5085",
+        "Mandarin": "F\u00f9",
+        "English": "Fu"
+    },
+    {
+        "Taiwanese": "Si",
+        "Character": "\u65bd",
+        "Mandarin": "Sh\u012b",
+        "English": "Shi"
+    },
+    {
+        "Taiwanese": "Si\u0101",
+        "Character": "\u8b1d",
+        "Mandarin": "Xi\u00e8",
+        "English": "Xie"
+    },
+    {
+        "Taiwanese": "Siau",
+        "Character": "\u856d",
+        "Mandarin": "Xi\u0101o",
+        "English": "Xiao"
+    },
+    {
+        "Taiwanese": "S\u00edm",
+        "Character": "\u6c88",
+        "Mandarin": "Sh\u011bn",
+        "English": "Shen"
+    },
+    {
+        "Taiwanese": "Sun",
+        "Character": "\u5b6b",
+        "Mandarin": "S\u016bn",
+        "English": "Sun"
+    },
+    {
+        "Taiwanese": "T\u00e2n",
+        "Character": "\u9673",
+        "Mandarin": "Ch\u00e9n",
+        "English": "Chen"
+    },
+    {
+        "Taiwanese": "T\u00e1ng",
+        "Character": "\u8463",
+        "Mandarin": "D\u01d2ng",
+        "English": "Dong"
+    },
+    {
+        "Taiwanese": "T\u0113\u207f/T\u012b\u207f",
+        "Character": "\u912d",
+        "Mandarin": "Zh\u00e8ng",
+        "English": "Zheng"
+    },
+    {
+        "Taiwanese": "Teng",
+        "Character": "\u4e01",
+        "Mandarin": "D\u012bng",
+        "English": "Ding"
+    },
+    {
+        "Taiwanese": "Ti\u014d",
+        "Character": "\u8d99",
+        "Mandarin": "Zh\u00e0o",
+        "English": "Zhao"
+    },
+    {
+        "Taiwanese": "Tiu\u207f",
+        "Character": "\u5f35",
+        "Mandarin": "Zh\u0101ng",
+        "English": "Zhang"
+    },
+    {
+        "Taiwanese": "T\u014d\u0358",
+        "Character": "\u675c",
+        "Mandarin": "D\u00f9",
+        "English": "Du"
+    },
+    {
+        "Taiwanese": "Toh",
+        "Character": "\u5353",
+        "Mandarin": "Zhu\u00f3",
+        "English": "Zhou"
+    },
+    {
+        "Taiwanese": "Un",
+        "Character": "\u6eab",
+        "Mandarin": "W\u0113n",
+        "English": "Wen"
+    }
+]

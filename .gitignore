@@ -1,0 +1,31 @@
+# Python files #
+################
+# setup.py private pip api repository directory
+.pypirc
+
+# setup.py working directory
+build
+# setup.py dist directory
+dist
+
+# hypothesis test database
+__pycache__
+
+# OS generated files #
+######################
+.directory
+.gdb_history
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# package
+venv
+
+# test develop
+develop
+
+# logfiles
+log
+*.log

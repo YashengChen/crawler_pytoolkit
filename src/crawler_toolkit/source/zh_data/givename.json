@@ -1,0 +1,476 @@
+[
+    {
+        "Character": "\u67cf\u7ff0",
+        "Mandarin": "B\u01ceih\u00e0n",
+        "English": "Pai-han",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u627f\u7ff0",
+        "Mandarin": "Ch\u00e9ngh\u00e0n",
+        "English": "Cheng-han",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u51a0\u9716",
+        "Mandarin": "Gu\u0101nl\u00edn",
+        "English": "Kuan-lin",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u51a0\u5ef7",
+        "Mandarin": "Gu\u0101nt\u00edng",
+        "English": "Kuan-ting",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u51a0\u5b87",
+        "Mandarin": "Gu\u0101ny\u01d4",
+        "English": "Kuan-yu",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5bb6\u8c6a",
+        "Mandarin": "Ji\u0101h\u00e1o",
+        "English": "Chia-hao",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5bb6\u9298",
+        "Mandarin": "Ji\u0101m\u00edng",
+        "English": "Chia-ming",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5efa\u5b8f",
+        "Mandarin": "Ji\u00e0nh\u00f3ng",
+        "English": "Chien-hung",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5bb6\u744b",
+        "Mandarin": "Ji\u0101w\u011bi",
+        "English": "Chia-wei",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u4fca\u5b8f",
+        "Mandarin": "J\u00f9nh\u00f3ng",
+        "English": "Chun-hung",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u4fca\u5091",
+        "Mandarin": "J\u00f9nji\u00e9",
+        "English": "Chun-chieh",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u4fca\u8ce2",
+        "Mandarin": "J\u00f9nxi\u00e1n",
+        "English": "Chun-hsien",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5a01\u5ef7",
+        "Mandarin": "W\u0113it\u00edng",
+        "English": "Wei-ting",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u4fe1\u5b8f",
+        "Mandarin": "X\u00ecnh\u00f3ng",
+        "English": "Hsin-hung",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5f65\u5ef7",
+        "Mandarin": "Y\u00e0nt\u00edng",
+        "English": "Yan-ting",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5b87\u8ed2",
+        "Mandarin": "Y\u01d4xu\u0101n",
+        "English": "Yu-hsuan",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u54f2\u744b",
+        "Mandarin": "Zh\u00e9w\u011bi",
+        "English": "Che-wei",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5fd7\u8c6a",
+        "Mandarin": "Zh\u00ech\u00e1o",
+        "English": "Chih-hao",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5fd7\u5b8f",
+        "Mandarin": "Zh\u00ech\u00f3ng",
+        "English": "Chih-hung",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5fd7\u5049",
+        "Mandarin": "Zh\u00ecw\u011bi",
+        "English": "Chih-wei",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u5b97\u7ff0",
+        "Mandarin": "Z\u014dngh\u00e0n",
+        "English": "Tsung-han",
+        "Gender": "M"
+    },
+    {
+        "Character": "\u6167\u541b",
+        "Mandarin": "Hu\u00ecj\u016bn",
+        "English": "Hui-chun",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u60e0\u5982",
+        "Mandarin": "Hu\u00ecr\u00fa",
+        "English": "Hui-ju",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u60e0\u5a77",
+        "Mandarin": "Hu\u00ect\u00edng",
+        "English": "Hui-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u60e0\u96ef",
+        "Mandarin": "Hu\u00ecw\u00e9n",
+        "English": "Hui-wen",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f73\u6a3a",
+        "Mandarin": "Ji\u0101hu\u00e0",
+        "English": "Chia-hua",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f73\u6167",
+        "Mandarin": "Ji\u0101hu\u00ec",
+        "English": "Chia-hui",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f73\u73b2",
+        "Mandarin": "Ji\u0101l\u00edng",
+        "English": "Chia-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5609\u73b2",
+        "Mandarin": "Ji\u0101l\u00edng",
+        "English": "Chia-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f73\u84c9",
+        "Mandarin": "Ji\u0101r\u00f3ng",
+        "English": "Chia-jung",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f73\u7a4e",
+        "Mandarin": "Ji\u0101y\u01d0ng",
+        "English": "Chia-ying",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5bb6\u745c",
+        "Mandarin": "Ji\u0101y\u00fa",
+        "English": "Chia-yu",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u975c\u5b9c",
+        "Mandarin": "J\u00ecngy\u00ed",
+        "English": "Ching-yi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u975c\u6021",
+        "Mandarin": "J\u00ecngy\u00ed",
+        "English": "Ching-yi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u7f8e\u73b2",
+        "Mandarin": "M\u011bil\u00edng",
+        "English": "Mei-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f69\u541b",
+        "Mandarin": "P\u00e8ij\u016bn",
+        "English": "Pei-chun",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f69\u73ca",
+        "Mandarin": "P\u00e8ish\u0101n",
+        "English": "Pei-shan",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u8a69\u6db5",
+        "Mandarin": "Sh\u012bh\u00e1n",
+        "English": "Shih-han",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u8a69\u5a77",
+        "Mandarin": "Sh\u012bt\u00edng",
+        "English": "Shih-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u82ac",
+        "Mandarin": "Sh\u016bf\u0113n",
+        "English": "Shu-fen",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u83ef",
+        "Mandarin": "Sh\u016bhu\u00e1",
+        "English": "Shu-hua",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u60e0",
+        "Mandarin": "Sh\u016bhu\u00ec",
+        "English": "Shu-hui",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u6167",
+        "Mandarin": "Sh\u016bhu\u00ec",
+        "English": "Shu-hui",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u5a1f",
+        "Mandarin": "Sh\u016bju\u0101n",
+        "English": "Shu-chuan",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u73b2",
+        "Mandarin": "Sh\u016bl\u00edng",
+        "English": "Shu-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6dd1\u8c9e",
+        "Mandarin": "Sh\u016bzh\u0113n",
+        "English": "Shu-chen",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u601d\u7a4e",
+        "Mandarin": "S\u012by\u01d0ng",
+        "English": "Ssu-ying",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5a77\u5a77",
+        "Mandarin": "T\u00edngt\u00edng",
+        "English": "Ting-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5ead\u744b",
+        "Mandarin": "T\u00edngw\u011bi",
+        "English": "Ting-wei",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5a49\u5a77",
+        "Mandarin": "W\u01cent\u00edng",
+        "English": "Wan-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u742c\u5a77",
+        "Mandarin": "W\u01cent\u00edng",
+        "English": "Wan-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u744b\u5a77",
+        "Mandarin": "W\u011bit\u00edng",
+        "English": "Wei-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u7b71\u6db5",
+        "Mandarin": "Xi\u01ceoh\u00e1n",
+        "English": "Hsiao-han",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5fc3\u6021",
+        "Mandarin": "X\u012bny\u00ed",
+        "English": "Hsin-yi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6b23\u6021",
+        "Mandarin": "X\u012bny\u00ed",
+        "English": "Hsin-yi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u99a8\u5100",
+        "Mandarin": "X\u012bny\u00ed",
+        "English": "Hsin-yi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u82b3",
+        "Mandarin": "Y\u01cef\u0101ng",
+        "English": "Ya-fang",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u6db5",
+        "Mandarin": "Y\u01ceh\u00e1n",
+        "English": "Ya-han",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u60e0",
+        "Mandarin": "Y\u01cehu\u00ec",
+        "English": "Ya-hui",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u6167",
+        "Mandarin": "Y\u01cehu\u00ec",
+        "English": "Ya-hui",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u73b2",
+        "Mandarin": "Y\u01cel\u00edng",
+        "English": "Ya-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u840d",
+        "Mandarin": "Y\u01cep\u00edng",
+        "English": "Ya-ping",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u742a",
+        "Mandarin": "Y\u01ceq\u00ed",
+        "English": "Ya-chi",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u5a77",
+        "Mandarin": "Y\u01cet\u00edng",
+        "English": "Ya-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u6587",
+        "Mandarin": "Y\u01cew\u00e9n",
+        "English": "Ya-wen",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u96ef",
+        "Mandarin": "Y\u01cew\u00e9n",
+        "English": "Ya-wen",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u96c5\u7b51",
+        "Mandarin": "Y\u01cezh\u00f9",
+        "English": "Ya-chu",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u5b89",
+        "Mandarin": "Y\u00ed\u2019\u0101n",
+        "English": "Yi-an",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5b9c\u541b",
+        "Mandarin": "Y\u00edj\u016bn",
+        "English": "Yi-chun",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u541b",
+        "Mandarin": "Y\u00edj\u016bn",
+        "English": "Yi-chun",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u4f36",
+        "Mandarin": "Y\u00edl\u00edng",
+        "English": "Yi-ling",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u5982",
+        "Mandarin": "Y\u00edr\u00fa",
+        "English": "Yi-ju",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u5b9c\u5ead",
+        "Mandarin": "Y\u00edt\u00edng",
+        "English": "Yi-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u5a77",
+        "Mandarin": "Y\u00edt\u00edng",
+        "English": "Yi-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u4f9d\u5a77",
+        "Mandarin": "Y\u012bt\u00edng",
+        "English": "Yi-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u6021\u8431",
+        "Mandarin": "Y\u00edxu\u0101n",
+        "English": "Yi-hsuan",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u90c1\u5a77",
+        "Mandarin": "Y\u00f9t\u00edng",
+        "English": "Yu-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u923a\u5a77",
+        "Mandarin": "Y\u00f9t\u00edng",
+        "English": "Yu-ting",
+        "Gender": "F"
+    },
+    {
+        "Character": "\u90c1\u96ef",
+        "Mandarin": "Y\u00f9w\u00e9n",
+        "English": "Yu-wen",
+        "Gender": "F"
+    }
+]
